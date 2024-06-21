@@ -102,6 +102,15 @@ Once the project environment is set up, you can run the FastAPI application:
 uvicorn app.main:app --reload
 ```
 
+## Credentials:
+
+Credentials login
+
+```
+username: user
+password: pass
+```
+
 ## API Documentation
 
 You can access these API documentations after running the application.
