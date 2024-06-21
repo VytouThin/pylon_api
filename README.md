@@ -94,6 +94,11 @@ USERNAME=user
 PASSWORD=pass
 
 ```
+## Seed Dump Data for Testing
+
+```bash
+python3 seed.py
+```
 
 ## Running the Application
 Once the project environment is set up, you can run the FastAPI application:
